@@ -1,0 +1,46 @@
+Honda Z-rv
+Marca: Honda
+Modelo: Z-rv
+año:2020
+color:blanco
+Kilometros:0
+Precio:150000000.00
+Calificacion:4
+
+Jeep Cherokee
+Marca: Jeep
+Modelo: Cherokee
+año:2021
+color:Gris
+Kilometros:20km
+Precio:170000000.00
+Calificacion:5
+
+Mazda 3
+Marca: Mazda
+Modelo: 3
+año:2021
+color:Rojo
+Kilometros:20km
+Precio:85000000.00
+Calificacion:4
+
+Renault Zoe
+Marca: Reanault
+Modelo: Zoe
+año:2020
+color:Gris
+Kilometros:30km
+Precio:120000000.00
+Calificacion:5
+
+Toyota Lexus
+Marca: Toyota
+Modelo: Lexus
+año:2022
+color:Blanco
+Kilometros:0km
+Precio:150000000.00
+Calificacion:5
+
+
